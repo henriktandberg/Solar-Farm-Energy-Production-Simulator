@@ -20,8 +20,8 @@ API_KEY=your_api_key_here
 
 #### Description:
 
-My project is a tool to simulate, estimate and visualise the solar energy electricity production potential of any location in the world, based on coordinates, size of solar panel area and solar panel specifications.
-It has no front-end / user interface other than the terminal in the code environment.
+My project is a tool to simulate, estimate and visualise the electric energy production potential of any solar panel / solar farm location in the world, based on coordinates, size of solar panel area and solar panel specifications.
+The project currently has no front-end / user interface and has to be operated within a code environment.
 
 This is achieved through several steps handled by functions and classes. All stages will be explained in further detail later.:
 #### Step 1: Fetch user input.
